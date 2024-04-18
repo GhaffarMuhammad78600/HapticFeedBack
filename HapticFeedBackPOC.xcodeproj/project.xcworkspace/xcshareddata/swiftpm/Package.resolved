@@ -1,0 +1,50 @@
+{
+  "pins" : [
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher",
+      "state" : {
+        "revision" : "5b92f029fab2cce44386d28588098b5be0824ef5",
+        "version" : "7.11.0"
+      }
+    },
+    {
+      "identity" : "lottie-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/airbnb/lottie-ios.git",
+      "state" : {
+        "revision" : "7fe8b6f697ae7db4bf0df270119592cb5d502848",
+        "version" : "4.4.1"
+      }
+    },
+    {
+      "identity" : "lottieforswiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fatihdurmaz/LottieForSwiftUI",
+      "state" : {
+        "branch" : "main",
+        "revision" : "0a39761435061ef2dd7df2eecded6cddc0904bb0"
+      }
+    },
+    {
+      "identity" : "sdwebimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImage.git",
+      "state" : {
+        "revision" : "f6afa0132961d593f07970d84e2d8b588c29ea04",
+        "version" : "5.19.1"
+      }
+    },
+    {
+      "identity" : "sdwebimageswiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImageSwiftUI.git",
+      "state" : {
+        "revision" : "22423b017b99ab8ac44e29e6372f571f782af6e4",
+        "version" : "3.0.2"
+      }
+    }
+  ],
+  "version" : 2
+}
